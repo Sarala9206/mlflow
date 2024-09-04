@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saral/Desktop/PS/mlflow/mlruns/0/b6e5010c200d4830a1f7050e665df35b/artifacts
+end_time: 1725431487610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6e5010c200d4830a1f7050e665df35b
+run_name: amazing-bat-94
+run_uuid: b6e5010c200d4830a1f7050e665df35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725431487569
+status: 4
+tags: []
+user_id: saral

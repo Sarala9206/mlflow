@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saral/Desktop/PS/mlflow/mlruns/0/0d6690cb447f42efb5fc98a3960b0e6b/artifacts
+end_time: 1725431552685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d6690cb447f42efb5fc98a3960b0e6b
+run_name: worried-stoat-593
+run_uuid: 0d6690cb447f42efb5fc98a3960b0e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725431552648
+status: 3
+tags: []
+user_id: saral
